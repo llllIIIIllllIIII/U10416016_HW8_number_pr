@@ -1,0 +1,16 @@
+import java.math.BigDecimal;
+import java.util.Scanner;
+
+public class BDecinal{
+	public static void main(String[] args){
+		Scanner input = new Scanner(System.in);
+		
+		//That user to enter what they want
+		String firstNum = input.nextLine();
+		System.out.print("Please enter an operator:");
+		String operator = input.nextLine();
+		String secondNum = input.nextLine();
+		
+
+	}
+}
